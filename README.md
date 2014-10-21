@@ -1,4 +1,4 @@
 vec3dict
 ========
 
-3dimensional vector handles as a dictionary
+3dimensional vector handled as a dictionary
